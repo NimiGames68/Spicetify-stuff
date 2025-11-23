@@ -14,7 +14,7 @@ export function headerText(text: string, subtext = "") {
     if (subtext) {
         const listSub = document.createElement("div");
         listSub.classList.add("setting-subhead-description");
-        listSub.innerHTML = marked.parse(subtext, { breaks: true });
+        listSub.innerHTML = marked.parse(subtext, { breaks: true }) as string;
         container.append(listSub);
     }
     return container;
@@ -48,7 +48,7 @@ export function getSettingCard(
                 <label class="setting-title">${title}</label>
                 <div class="setting-action">${actionContent}</div>
             </div>
-            <div class="setting-description">${marked.parse(description, { breaks: true })}</div>
+            <div class="setting-description">${marked.parse(description, { breaks: true }) as string}</div>
         </div>
     `;
     return settingCard;
