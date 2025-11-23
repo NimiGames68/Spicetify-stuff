@@ -1,0 +1,171 @@
+{
+    "langName": "Polski",
+    "context": {
+        "queue": "Odtwarzanie z kolejki",
+        "track": "Odtwarzanie utworu",
+        "album": "Odtwarzanie z albumu",
+        "artist": "Odtwarzanie z artysty",
+        "playlist": "Odtwarzanie z playlisty",
+        "playlistFolder": "Odtwarzanie z folderu playlisty",
+        "search": "Odtwarzanie z wyszukiwania",
+        "searchDest": "Utwory",
+        "collection": "Odtwarzanie z kolekcji",
+        "likedSongs": "Polubione utwory",
+        "trackRadio": "Radio utworu",
+        "artistRadio": "Radio artysty",
+        "albumRadio": "Radio albumu",
+        "playlistRadio": "Radio playlisty"
+    },
+    "upnext": "NASTĘPNY",
+    "unknownArtist": "Nieznany artysta",
+    "settings": {
+        "switchToTV": "Przełącz na tryb TV",
+        "switchToFullscreen": "Przełącz na tryb domyślny",
+        "tvModeConfig": "Konfiguracja trybu TV",
+        "fullscreenConfig": "Konfiguracja pełnego ekranu",
+        "exit": "Wyjdź",
+        "pluginSettings": "Ustawienia wtyczki",
+        "fsHideOriginal": "Ukryj oryginalny przycisk",
+        "fsHideOriginalDescription": "Ukryj oryginalny przycisk pełnego ekranu Spotify (dla użytkowników **Premium**)",
+        "language": "Język",
+        "autoLaunch": {
+            "setting": "Automatyczne uruchamianie (przy starcie Spotify)",
+            "description": "**Ograniczenie:** Okno Spotify nie może przejść w tryb pełnoekranowy podczas automatycznego uruchamiania.",
+            "never": "Nigdy (Domyślnie)",
+            "default": "Otwórz tryb domyślny",
+            "tvmode": "Otwórz tryb TV",
+            "lastused": "Ostatnio używany tryb"
+        },
+        "activationTypes": {
+            "setting": "Metody aktywacji",
+            "description": "Wybierz metody aktywacji wtyczki. Klawisze <kbd>F</kbd> i <kbd>T</kbd> lub przyciski na górnym i dolnym pasku.",
+            "both": "Przyciski i skróty klawiszowe",
+            "btns": "Tylko przyciski",
+            "keys": "Tylko skróty klawiszowe"
+        },
+        "buttonActivation": {
+            "setting": "Dostosuj przyciski",
+            "description": "Wybierz przyciski aktywacji, na górnym pasku (*Tryb TV*) i dolnym pasku (*Tryb domyślny*).",
+            "both": "Przyciski dla obu",
+            "tv": "Tylko przycisk trybu TV",
+            "def": "Tylko przycisk trybu domyślnego"
+        },
+        "keyActivation": {
+            "setting": "Dostosuj klawisze",
+            "description": "Wybierz klawisze aktywacji. <kbd>F</kbd> dla *Trybu domyślnego* i <kbd>T</kbd> dla *Trybu TV*",
+            "both": "Klawisze dla obu",
+            "tv": "Tylko klawisz trybu TV",
+            "def": "Tylko klawisz trybu domyślnego"
+        },
+        "lyricsHeader": "Ustawienia tekstu",
+        "lyrics": "Tekst",
+        "lyricsDescription": [
+            "**Uwaga:** Potrzebujesz niestandardowej aplikacji [lyrics-plus](https://spicetify.app/docs/advanced-usage/custom-apps#lyrics-plus), aby korzystać z tej funkcji.",
+            "Postępuj zgodnie z instrukcjami w linku, aby zainstalować."
+        ],
+        "lyricsAlignment": {
+            "setting": "Wyrównanie tekstu",
+            "left": "Lewo",
+            "center": "Środek",
+            "right": "Prawo"
+        },
+        "autoHideLyrics": "Automatycznie ukryj tekst (gdy niedostępny)",
+        "lyricsAnimationTempo": "Tempo animacji tekstu",
+        "generalHeader": "Ustawienia ogólne",
+        "progressBar": "Pasek postępu",
+        "playerControls": "Sterowanie odtwarzaczem",
+        "trimTitle": "Przytnij tytuł",
+        "trimTitleUpNext": "Przytnij tytuł (Następny)",
+        "trimAlbum": "Przytnij album",
+        "showAlbum": {
+            "setting": "Pokaż album",
+            "never": "Nigdy",
+            "always": "Zawsze",
+            "date": "Z datą wydania"
+        },
+        "showAllArtists": "Pokaż wszystkich artystów",
+        "icons": "Ikony",
+        "songChangeAnimation": "Animacja zmiany utworu",
+        "fullscreen": "Pełny ekran",
+        "extraHeader": "Dodatkowe funkcje",
+        "backgroundChoice": {
+            "setting": "⭐ Wybór tła",
+            "description": [
+                "**Nowość:** Wypróbuj opcję **Animowana okładka**!",
+                "**Ostrzeżenie:** Wygląda pięknie, ale może zużywać zasoby i jest eksperymentalna."
+            ],
+            "dynamicColor": "Dynamiczny jednolity kolor",
+            "staticColor": "Statyczny jednolity kolor",
+            "artwork": "Okładka albumu",
+            "animatedArt": "Animowana okładka (Eksperymentalne)",
+            "artist": "Zdjęcie artysty"
+        },
+        "sidebarQueue": "Kolejka na pasku bocznym (zastępuje przycisk tekstu)",
+        "sidebarQueueDescription": [
+            "Przełącz kolejkę na pasku bocznym za pomocą <kbd>Q</kbd> lub przycisku na dodatkowym pasku.",
+            "Upewnij się, że włączyłeś ustawienie w funkcjach eksperymentalnych."
+        ],
+        "extraControls": "Dodatkowe sterowanie",
+        "upnextDisplay": "Wyświetlanie Następnego",
+        "contextDisplay": {
+            "setting": "Wyświetlanie kontekstu",
+            "always": "Zawsze",
+            "never": "Nigdy",
+            "mouse": "Przy ruchu myszy"
+        },
+        "volumeDisplay": {
+            "setting": "Pasek głośności",
+            "description": [
+                "W trybie `Inteligentnym` pasek pojawia się, gdy:",
+                " - przesuniesz mysz na lewą stronę.",
+                " - zmieni się głośność."
+            ],
+            "always": "Zawsze",
+            "never": "Nigdy",
+            "smart": "Inteligentny"
+        },
+        "overviewDisplay": {
+            "setting": "Wyświetlanie przeglądu",
+            "description": "Pokaż krótką kartę przeglądu z czasem i sterowaniem"
+        },
+        "appearanceHeader": "Zaawansowane/Wygląd",
+        "appearanceSubHeader": "*(Zmieniaj tylko jeśli wiesz, co robisz!)*",
+        "backgroundHeader": "Modyfikacje tła",
+        "backgroundSubHeader": "Ma rozsądne domyślne ustawienia, *(Zmieniaj tylko jeśli wiesz, co robisz!)*",
+        "backgroundColor": {
+            "setting": "Wybór koloru (Dynamiczne tło)",
+            "vibrant": "Żywy",
+            "prominent": "Wyraźny",
+            "desaturated": "Zdesaturowany (Zalecane)",
+            "lightVibrant": "Jasny żywy",
+            "darkVibrant": "Ciemny żywy",
+            "vibrantNonAlarming": "Łagodny żywy"
+        },
+        "staticColor": "Wybór koloru (Statyczne tło)",
+        "themedButtons": "Tematyczne przyciski",
+        "themedIcons": "Tematyczne ikony",
+        "invertColors": {
+            "setting": "Odwróć kolory",
+            "never": "Nigdy",
+            "always": "Zawsze",
+            "auto": "Auto (Na podstawie tła)"
+        },
+        "verticalMonitorSupport": "Obsługa monitora pionowego",
+        "verticalMonitorSupportDescription": "Włącz dla monitorów pionowych. Tekst będzie na dole, jeśli wysokość jest większa niż szerokość.",
+        "backAnimationTime": "Czas animacji tła (Obraz)",
+        "animationSpeed": "⭐ Prędkość animacji (Animowane)",
+        "upnextScroll": {
+            "setting": "Animacja przewijania Następnego",
+            "mq": "Marquee/Przewijanie",
+            "sp": "Spotify/Tłumaczenie"
+        },
+        "upnextTime": "Czas wyświetlania Następnego",
+        "backgroundBlur": "Rozmycie tła",
+        "backgroundBrightness": "Jasność tła",
+        "aboutHeader": "O programie",
+        "configReset": "Zresetuj konfigurację",
+        "reload": "Przeładuj klienta"
+    },
+    "tvBtnDesc": "Tryb TV",
+    "fullscreenBtnDesc": "Pełny ekran"
+}

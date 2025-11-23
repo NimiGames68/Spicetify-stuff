@@ -1,0 +1,171 @@
+{
+    "langName": "Nederlands",
+    "context": {
+        "queue": "Afspelen vanuit wachtrij",
+        "track": "Nummer afspelen",
+        "album": "Afspelen van album",
+        "artist": "Afspelen van artiest",
+        "playlist": "Afspelen van afspeellijst",
+        "playlistFolder": "Afspelen van afspeellijstmap",
+        "search": "Afspelen vanuit zoeken",
+        "searchDest": "Nummers",
+        "collection": "Afspelen vanuit bibliotheek",
+        "likedSongs": "Gelikete nummers",
+        "trackRadio": "Nummerradio",
+        "artistRadio": "Artiestradio",
+        "albumRadio": "Albumradio",
+        "playlistRadio": "Afspeellijstradio"
+    },
+    "upnext": "VOLGENDE",
+    "unknownArtist": "Onbekende artiest",
+    "settings": {
+        "switchToTV": "Schakel naar TV-modus",
+        "switchToFullscreen": "Schakel naar standaardmodus",
+        "tvModeConfig": "TV-modus configuratie",
+        "fullscreenConfig": "Volledig scherm configuratie",
+        "exit": "Afsluiten",
+        "pluginSettings": "Plugin-instellingen",
+        "fsHideOriginal": "Verberg originele knop",
+        "fsHideOriginalDescription": "Verberg de originele Spotify volledig scherm knop (voor **Premium** gebruikers)",
+        "language": "Taal",
+        "autoLaunch": {
+            "setting": "Automatisch starten (bij Spotify start)",
+            "description": "**Beperking:** Het Spotify-venster kan niet naar volledig scherm gaan bij automatisch starten.",
+            "never": "Nooit (Standaard)",
+            "default": "Open standaardmodus",
+            "tvmode": "Open TV-modus",
+            "lastused": "Laatst gebruikte modus"
+        },
+        "activationTypes": {
+            "setting": "Activeringsmethoden",
+            "description": "Kies methoden om de plugin te activeren. Toetsen <kbd>F</kbd> en <kbd>T</kbd>, of knoppen in de boven- en onderbalk.",
+            "both": "Knoppen en sneltoetsen",
+            "btns": "Alleen knoppen",
+            "keys": "Alleen sneltoetsen"
+        },
+        "buttonActivation": {
+            "setting": "Knoppen aanpassen",
+            "description": "Kies activeringsknoppen, in bovenbalk (*TV-modus*) en onderbalk (*Standaardmodus*).",
+            "both": "Knoppen voor beide",
+            "tv": "Alleen TV-modus knop",
+            "def": "Alleen standaardmodus knop"
+        },
+        "keyActivation": {
+            "setting": "Toetsen aanpassen",
+            "description": "Kies activeringstoetsen. <kbd>F</kbd> voor *Standaardmodus* en <kbd>T</kbd> voor *TV-modus*",
+            "both": "Toetsen voor beide",
+            "tv": "Alleen TV-modus toets",
+            "def": "Alleen standaardmodus toets"
+        },
+        "lyricsHeader": "Tekstinstellingen",
+        "lyrics": "Tekst",
+        "lyricsDescription": [
+            "**Opmerking:** Je hebt de [lyrics-plus](https://spicetify.app/docs/advanced-usage/custom-apps#lyrics-plus) custom app nodig voor deze functie.",
+            "Volg de instructies in de link om te installeren."
+        ],
+        "lyricsAlignment": {
+            "setting": "Tekstuitlijning",
+            "left": "Links",
+            "center": "Midden",
+            "right": "Rechts"
+        },
+        "autoHideLyrics": "Tekst auto. verbergen (indien niet beschikbaar)",
+        "lyricsAnimationTempo": "Tekstanimatiesnelheid",
+        "generalHeader": "Algemene instellingen",
+        "progressBar": "Voortgangsbalk",
+        "playerControls": "Spelerbediening",
+        "trimTitle": "Titel inkorten",
+        "trimTitleUpNext": "Titel inkorten (Volgende)",
+        "trimAlbum": "Album inkorten",
+        "showAlbum": {
+            "setting": "Toon album",
+            "never": "Nooit",
+            "always": "Altijd",
+            "date": "Met releasedatum"
+        },
+        "showAllArtists": "Toon alle artiesten",
+        "icons": "Iconen",
+        "songChangeAnimation": "Nummerwisselanimatie",
+        "fullscreen": "Volledig scherm",
+        "extraHeader": "Extra functionaliteit",
+        "backgroundChoice": {
+            "setting": "⭐ Achtergrondkeuze",
+            "description": [
+                "**Nieuw:** Probeer de **Geanimeerde albumhoes** optie!",
+                "**Waarschuwing:** Ziet er mooi uit maar kan bronnen gebruiken, en is experimenteel."
+            ],
+            "dynamicColor": "Dynamische effen kleur",
+            "staticColor": "Statische effen kleur",
+            "artwork": "Albumhoes",
+            "animatedArt": "Geanimeerde albumhoes (Experimenteel)",
+            "artist": "Artiestafbeelding"
+        },
+        "sidebarQueue": "Wachtrij in zijbalk (vervangt tekstknop)",
+        "sidebarQueueDescription": [
+            "Schakel wachtrij in zijbalk met <kbd>Q</kbd> of knop in extra balk.",
+            "Zorg dat je de instelling in experimentele functies inschakelt."
+        ],
+        "extraControls": "Extra bediening",
+        "upnextDisplay": "Toon Volgende",
+        "contextDisplay": {
+            "setting": "Toon context",
+            "always": "Altijd",
+            "never": "Nooit",
+            "mouse": "Bij muisbeweging"
+        },
+        "volumeDisplay": {
+            "setting": "Volumebalk",
+            "description": [
+                "In `Slimme` modus verschijnt de balk wanneer:",
+                " - je de muis naar links beweegt.",
+                " - het volume verandert."
+            ],
+            "always": "Altijd",
+            "never": "Nooit",
+            "smart": "Slim"
+        },
+        "overviewDisplay": {
+            "setting": "Overzichtsweergave",
+            "description": "Toon korte overzichtskaart met tijd en bediening"
+        },
+        "appearanceHeader": "Geavanceerd/Uiterlijk",
+        "appearanceSubHeader": "*(Alleen wijzigen als je weet wat je doet!)*",
+        "backgroundHeader": "Achtergrondaanpassingen",
+        "backgroundSubHeader": "Komt met redelijke standaarden, *(Alleen wijzigen als je weet wat je doet!)*",
+        "backgroundColor": {
+            "setting": "Kleurkeuze (Dynamische achtergrond)",
+            "vibrant": "Levendig",
+            "prominent": "Prominent",
+            "desaturated": "Gedesatureerd (Aanbevolen)",
+            "lightVibrant": "Licht levendig",
+            "darkVibrant": "Donker levendig",
+            "vibrantNonAlarming": "Zacht levendig"
+        },
+        "staticColor": "Kleurkeuze (Statische achtergrond)",
+        "themedButtons": "Themaknoppen",
+        "themedIcons": "Thema-iconen",
+        "invertColors": {
+            "setting": "Kleuren omkeren",
+            "never": "Nooit",
+            "always": "Altijd",
+            "auto": "Auto (Gebaseerd op achtergrond)"
+        },
+        "verticalMonitorSupport": "Verticale monitor ondersteuning",
+        "verticalMonitorSupportDescription": "Schakel in voor verticale monitoren. Tekst staat onderaan als hoogte groter is dan breedte.",
+        "backAnimationTime": "Achtergrondanimatietijd (Afbeelding)",
+        "animationSpeed": "⭐ Animatiesnelheid (Geanimeerd)",
+        "upnextScroll": {
+            "setting": "Volgende scrollanimatie",
+            "mq": "Lichtkrant/Scrollen",
+            "sp": "Spotify/Vertaling"
+        },
+        "upnextTime": "Volgende weergavetijd",
+        "backgroundBlur": "Achtergrondvervaging",
+        "backgroundBrightness": "Achtergrondhelderheid",
+        "aboutHeader": "Over",
+        "configReset": "Configuratie resetten",
+        "reload": "Client herladen"
+    },
+    "tvBtnDesc": "TV-modus",
+    "fullscreenBtnDesc": "Volledig scherm"
+}

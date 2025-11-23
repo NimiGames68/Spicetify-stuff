@@ -10,6 +10,14 @@ import frFR from "./locales/fr-FR.json";
 import idID from "./locales/id-ID.json";
 import ptBR from "./locales/pt-BR.json";
 import zhTW from "./locales/zh-TW.json";
+import arSA from "./locales/ar-SA.json";
+import hiIN from "./locales/hi-IN.json";
+import jaJP from "./locales/ja-JP.json";
+import koKR from "./locales/ko-KR.json";
+import nlNL from "./locales/nl-NL.json";
+import plPL from "./locales/pl-PL.json";
+import svSE from "./locales/sv-SE.json";
+import thTH from "./locales/th-TH.json";
 import defaultsDeep from "lodash.defaultsdeep";
 
 // Translation strings
@@ -27,6 +35,14 @@ const translations: Record<string, any> = {
     "id-ID": defaultsDeep(idID, enUS),
     "pt-BR": defaultsDeep(ptBR, enUS),
     "zh-TW": defaultsDeep(zhTW, enUS),
+    "ar-SA": defaultsDeep(arSA, enUS),
+    "hi-IN": defaultsDeep(hiIN, enUS),
+    "ja-JP": defaultsDeep(jaJP, enUS),
+    "ko-KR": defaultsDeep(koKR, enUS),
+    "nl-NL": defaultsDeep(nlNL, enUS),
+    "pl-PL": defaultsDeep(plPL, enUS),
+    "sv-SE": defaultsDeep(svSE, enUS),
+    "th-TH": defaultsDeep(thTH, enUS),
 };
 
 export default translations;
